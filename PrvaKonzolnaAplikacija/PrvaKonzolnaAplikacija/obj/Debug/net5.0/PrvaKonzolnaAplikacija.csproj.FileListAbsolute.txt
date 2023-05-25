@@ -1,0 +1,16 @@
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.exe
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.deps.json
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.runtimeconfig.json
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\net5.0\PrvaKonzolnaAplikacija.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\refint\PrvaKonzolnaAplikacija.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\PrvaKonzolnaAplikacija.genruntimeconfig.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\net5.0\ref\PrvaKonzolnaAplikacija.dll

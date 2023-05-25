@@ -1,0 +1,16 @@
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.exe
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.deps.json
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.runtimeconfig.json
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\bin\Debug\net5.0\BrzinaBroda.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\refint\BrzinaBroda.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\BrzinaBroda.genruntimeconfig.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\BrzinaBroda\BrzinaBroda\obj\Debug\net5.0\ref\BrzinaBroda.dll

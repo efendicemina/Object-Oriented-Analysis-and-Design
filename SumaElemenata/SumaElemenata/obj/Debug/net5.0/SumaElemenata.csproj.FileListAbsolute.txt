@@ -1,0 +1,16 @@
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.exe
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.deps.json
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.runtimeconfig.json
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\bin\Debug\net5.0\SumaElemenata.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\refint\SumaElemenata.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\SumaElemenata.genruntimeconfig.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\SumaElemenata\SumaElemenata\obj\Debug\net5.0\ref\SumaElemenata.dll

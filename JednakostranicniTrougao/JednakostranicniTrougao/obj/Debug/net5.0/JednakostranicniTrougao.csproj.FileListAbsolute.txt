@@ -1,0 +1,16 @@
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.exe
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.deps.json
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.runtimeconfig.json
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\bin\Debug\net5.0\JednakostranicniTrougao.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\refint\JednakostranicniTrougao.dll
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.pdb
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\JednakostranicniTrougao.genruntimeconfig.cache
+C:\Users\User-PC\Desktop\ooad-kodovi\ToSortedArray\ToSortedArray\obj\Debug\net5.0\ref\JednakostranicniTrougao.dll
