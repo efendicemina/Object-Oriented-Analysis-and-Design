@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LV5.props" />
+</Project>
