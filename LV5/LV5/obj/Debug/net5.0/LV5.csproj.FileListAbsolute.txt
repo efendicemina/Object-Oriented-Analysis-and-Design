@@ -173,3 +173,8 @@ C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\Studen
 C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
 C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
 C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\UpisNaPredmet\Create.cshtml.g.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\UpisNaPredmet\Delete.cshtml.g.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\UpisNaPredmet\Details.cshtml.g.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\UpisNaPredmet\Edit.cshtml.g.cs
+C:\Users\User-PC\Desktop\ooad-kodovi\LV5\LV5\obj\Debug\net5.0\Razor\Views\UpisNaPredmet\Index.cshtml.g.cs

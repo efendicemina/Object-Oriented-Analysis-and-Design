@@ -21,6 +21,11 @@
                 <select asp-for="PredmetId" class ="form-control" asp-items="ViewBag.PredmetId"></select>
             </div>
             <div class="form-group">
+                <label asp-for="DatumUpisa" class="control-label"></label>
+                <input asp-for="DatumUpisa" class="form-control" />
+                <span asp-validation-for="DatumUpisa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
